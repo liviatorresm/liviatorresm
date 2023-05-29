@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning Computer Vision  
 
-- 💬 Ask me anything about Python and related libraries  
+- 💬 Ask me anything about Python and related libraries,  as I am growing strong on it!  
 
 - ⚡ Fun fact: I hold a degree in Nutrition and specialize in Nephrology and Organ Transplantation 👩‍⚕️  
 
