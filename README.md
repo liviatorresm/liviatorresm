@@ -1,7 +1,5 @@
 ## Hi there! 👋
-<div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6fCfqI1E1JHxJRWGntsJYSgeG8ctzkzjMwpHqSZsESFga8M9GtECrd0duMDwmh35Rvbccs9lEw-jS_PWdWG9CgUDL-uluukgmqI8QmoddqB_VwTa78-b2CCvTgK6tnPf5hrW4K7_d0M30_PbORK5_856cBl-cz-6hZmpJDHT0CworodNBrH1AgAcG/s500/4j6o.gif)" width=480 height=318.720 >
-</div>  
+ 
   <br/> 
 
 ### <div align="center">I'm Lívia Pinheiro, a data science student 👩‍💻  </div>  
