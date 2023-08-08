@@ -2,7 +2,7 @@
  
   <br/> 
 
-### <div align="center">I'm Lívia Pinheiro, a data science student 👩‍💻  </div>  
+### <div align="center">I'm Lívia Pinheiro, a junior data scientist 👩‍💻  </div>  
   <br/> 
 
 - 🔭 I’m currently working on [some machine learning projects](https://github.com/liviatorresm/yandex-practicum-projects)
