@@ -1,21 +1,19 @@
-## Hi there! 👋
- 
-  <br/> 
+## Hi there! Welcome to my Github 👋
 
-### <div align="center">I'm Lívia Pinheiro, a junior data scientist 👩‍💻  </div>  
-  <br/> 
+I'm Lívia Pinheiro, a Bachelor of Nutrition Science turned Data Scientist with a sprinkle of nerdiness and a dash of crazy cat lady vibes. 🐱
 
-- 🔭 I’m currently working on [some machine learning projects](https://github.com/liviatorresm/yandex-practicum-projects)
-  
-- 🌱 I’m currently learning Computer Vision  
+You'll constantly find me diving deep into the world of data science. My love for numbers doesn't stop at the office. I have a keen interest in the history and philosophy of mathematics and statistics. Coding is my second language and I'm always up for a coding adventure.
 
-- 💬 Ask me anything about Python and related libraries,  as I am growing strong on it!  
+Biological processes, epidemiology, and physiology pique my curiosity. I'm passionate about understanding the intricate mechanisms that govern life and health, and I enjoy exploring the science behind it all.
 
-- ⚡ Fun fact: I hold a degree in Nutrition and specialize in Nephrology and Organ Transplantation 👩‍⚕️  
+When I'm not analyzing data or coding, you might spot me behind the lens. Photography is a creative outlet for me, and I love capturing the beauty of the world around me.
 
-  
+⚡ Fun fact: Beyond being a big Bowie fan, I specialize in Nephrology and Organ Transplantation. 👩‍⚕️  
+
+Feel free to connect with me, whether you want to chat about data science, math, coding, or just to share your favorite Bowie song. Let's embark on this exciting journey together! 🚀✨
 
 <br/>  
+
  
 ## My Skill Set
 
@@ -69,6 +67,13 @@
 
 
 ## Github Stats  
+
+<div align="center"> 
+ 
+ [![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviatorresm)](https://github.com/liviatorresm/github-readme-stats)
+ 
+</div>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviatorresm&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
