@@ -74,7 +74,11 @@ Feel free to connect with me, whether you want to chat about data science, math,
  
 </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviatorresm&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviatorresm&layout=compact)
+
+</div>  
 
 <br/>  
 
