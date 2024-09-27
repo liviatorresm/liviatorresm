@@ -1,16 +1,16 @@
 ## Hi there! Welcome to my Github 👋
 
-I'm Lívia Pinheiro, a Bachelor of Nutrition Science turned Data Scientist with a sprinkle of nerdiness and a dash of crazy cat lady vibes. 🐱
+I'm Lívia Pinheiro, a Bachelor of Nutrition Science turned Data Analyst with a sprinkle of nerdiness and a dash of crazy cat lady vibes. 🐱
 
-You'll constantly find me diving deep into the world of data science. My love for numbers doesn't stop at the office. I have a keen interest in the history and philosophy of mathematics and statistics. Coding is my second language and I'm always up for a coding adventure.
+You'll constantly find me diving deep into the world of data. My love for numbers doesn't stop at the office. I am keenly interested in the history and philosophy of mathematics and statistics.
 
 Biological processes, epidemiology, and physiology pique my curiosity. I'm passionate about understanding the intricate mechanisms that govern life and health, and I enjoy exploring the science behind it all.
 
-When I'm not analyzing data or coding, you might spot me behind the lens. Photography is a creative outlet for me, and I love capturing the beauty of the world around me.
+You might spot me behind the lens when I'm not analyzing data or coding. Photography is a creative outlet, and I love capturing the beauty of the world around me.
 
-⚡ Fun fact: Beyond being a big Bowie fan, I specialize in Nephrology and Organ Transplantation. 👩‍⚕️  
+⚡ Fun fact: I specialize in Nephrology and Organ Transplantation. 👩‍⚕️  
 
-Feel free to connect with me, whether you want to chat about data science, math, coding, or just to share your favorite Bowie song. Let's embark on this exciting journey together! 🚀✨
+Feel free to connect with me, whether you want to chat about data science, math, or coding.  🚀✨
 
 <br/>  
 
@@ -39,6 +39,9 @@ Feel free to connect with me, whether you want to chat about data science, math,
   <a href="https://keras.io/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="80" />
   </a>
+ <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50">
+ </a>
 </div>
 
  
