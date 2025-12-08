@@ -1,53 +1,23 @@
 ## Hi there! Welcome to my Github 👋
 
-I'm Lívia Pinheiro, a Bachelor of Nutrition Science turned Data Analyst with a sprinkle of nerdiness and a dash of crazy cat lady vibes. 🐱
+I'm Lívia Pinheiro, a former Nutrition Science professional who transitioned into Data Analytics.
 
-You'll constantly find me diving deep into the world of data. My love for numbers doesn't stop at the office. I am keenly interested in the history and philosophy of mathematics and statistics.
+You'll constantly find me diving deep into data. My love for numbers doesn't stop at the office. I am keenly interested in the history and philosophy of mathematics and statistics.
 
-Biological processes, epidemiology, and physiology pique my curiosity. I'm passionate about understanding the intricate mechanisms that govern life and health, and I enjoy exploring the science behind it all.
+Biological processes, epidemiology, and physiology also pique my curiosity. I'm passionate about understanding the intricate mechanisms that govern life and health, and I enjoy exploring the science behind it all.
 
-You might spot me behind the lens when I'm not analyzing data or coding. Photography is a creative outlet, and I love capturing the beauty of the world around me.
+Outside the analytical world, you can often find me behind a camera. Photography is my creative outlet and a way to observe patterns, detail, and structure through a different lens.
 
-⚡ Fun fact: I specialize in Nephrology and Organ Transplantation. 👩‍⚕️  
+⚡ Fun fact: I have a clinical background with specialization in Nephrology and Organ Transplantation. 👩‍⚕️  
 
-Feel free to connect with me, whether you want to chat about data science, math, or coding.  🚀✨
+Please feel free to reach out to me, whether you'd like to chat about data science, math, or coding.  🚀✨
 
 <br/>  
 
  
 ## My Skill Set
 
-<div align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" />
-  </a>
-  <a href="https://mariadb.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="80" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="80" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="80" />
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="80" />
-  </a>
- <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50">
- </a>
-</div>
-
- 
-
-<br/>  
-
+<div align="center"> <table> <tr> <td><a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" /></a></td> <td><a href="https://www.r-project.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" height="50" /></a></td> <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" /></a></td> <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" /></a></td> <td><a href="https://www.oracle.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50" /></a></td> </tr> <tr> <td><a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" /></a></td> <td><a href="https://pytorch.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50" /></a></td> <td><a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="50" /></a></td> <td><a href="https://hadoop.apache.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" height="50" /></a></td> <td><a href="https://kafka.apache.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" height="50" /></a></td> </tr> <tr> <td><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50" /></a></td> <td><a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" /></a></td> <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50" /></a></td> <td><a href="https://www.terraform.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="50" /></a></td> <td><a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" /></a></td> </tr> <tr> <td><a href="https://www.chartjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50" /></a></td> <td><a href="https://d3js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" height="50" /></a></td> <td><a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="50" /></a></td> <td><a href="https://mariadb.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" height="50" /></a></td> <td><a href="https://www.djangoproject.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" /></a></td> </tr> <tr> <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" /></a></td> <td><a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" /></a></td> <td><a href="https://www.tableau.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="50" /></a></td> </tr> </table> </div>
 
 ## Connect with me  
 <div align="center">
@@ -70,19 +40,6 @@ Feel free to connect with me, whether you want to chat about data science, math,
 
 
 ## Github Stats  
-
-<div align="center"> 
- 
- [![Livia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviatorresm)](https://github.com/liviatorresm/github-readme-stats)
- 
-</div>
-
-<div align="center">
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviatorresm&layout=compact)
-
-</div>  
-
 <br/>  
 
 <div align="center">
